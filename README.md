@@ -6,13 +6,13 @@
 * [Steps of Open App](#Steps of Oepn App)
 * Tools(#Tools)
 
-##Description
+## Description
 
  Ionic Application used to content information about person and store it in Firebase. 
  You can edit and delete personal information . 
  You can also add new Person .
 
-##Steps of Oepn App
+## Steps of Oepn App
 
 * open the path in `terminal , command line in windows`
 * Run this command in command line `ionic serve --lab or ionic serve`
@@ -20,9 +20,9 @@
 
 
 
-##Tools
+## Tools
 
-*Ionic FrameWork
-*Firebase
-*Cordova
+* Ionic FrameWork
+* Firebase
+* Cordova
 
